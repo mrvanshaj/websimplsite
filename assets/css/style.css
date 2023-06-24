@@ -424,6 +424,7 @@ body.nav-active {
   transform: translateX(-340px);
   visibility: visible;
   transition: 0.5s var(--cubic-out);
+  background-color:var(--text-alice-blue);
 }
 
 .navbar-top {
