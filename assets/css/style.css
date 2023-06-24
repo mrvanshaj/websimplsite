@@ -371,11 +371,13 @@ body.nav-active {
   left: 0;
   width: 100%;
   padding-block: 24px;
-  background-color: white;
+  background-color: var(--text-white);
   z-index: 4;
 }
 
 .header.active {
+  opacity: 0.9;
+  backdrop-filter: blur(10px);
   padding-block: 8px;
   box-shadow: var(--shadow-1);
   border-block-end: 1px solid var(--bg-prussian-blue);
@@ -424,7 +426,7 @@ body.nav-active {
   transform: translateX(-340px);
   visibility: visible;
   transition: 0.5s var(--cubic-out);
-   background-color: var(--text-alice-blue);
+  background-color: aliceblue;
 }
 
 .navbar-top {
