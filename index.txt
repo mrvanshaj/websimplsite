@@ -1,275 +1,244 @@
-Wren - Perosonal Blog Website
-
-This is a blog html template made by codewithsadee
+Pixology - Building Digital Product
 
 
 
 #---------- HEADER ----------#
 
-alt = Wren logo
+Pixology
 
-alt = Wren logo
+aria-label="close menu"
 
-aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
 Home
-Topics
-Featured Post
-Recent Post
-Contact
+Services
+Features
+Portfolio
+Blog
 
-alt = Steven
-Hello Steven !
-You have 3 new messages
+aria-label="open menu"
 
-Profile
-Articles Saved
-Add New Post
-
-My Likes
-Account Setting
-Sign Out
-
-Copyright 2022 © Wren - Personal Blog Template.
-Developed by codewithsadee
-
-Subscribe
-
-aria-label = open menu
 <ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+Let’s Talk 👋
 
 
 
 #---------- HERO ----------#
 
-Hello Everyone!
+Building Digital Product, Brand and Experience
 
-I’m WebSimpL
+At Pixology we specialize in designing, building, shipping and scaling beautiful, usable products with blazing-fast efficiency
 
-I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.
+How It Works
 
-placeholder = Type your email address
+aria-label="pixology promo"
+<ion-icon name="play-outline" aria-hidden="true"></ion-icon>
+Behind the scenes
+
+--color: hsl(241, 77%, 63%)
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+--color: hsl(0, 100%, 50%)
+<ion-icon name="logo-youtube"></ion-icon>
+Youtube
+
+--color: hsl(203, 89%, 53%)
+<ion-icon name="logo-twitter"></ion-icon>
+Twitter
+
+alt =  hero banner
+
+
+
+#---------- SERVICE ----------#
+
+Our Services
+
+Managing you business with our best service
+
+--color: 174, 77%, 50%
+
+alt = service icon
+Product Management
+
+--color: 267, 76%, 57%
+Web & Mobile Development
+
+--color: 17, 100%, 68%
+Fast Customer Support
+
+--color: 343, 98%, 60%
+Human Resources
+
+--color: 210, 100%, 53%
+Design and Vreatives
+
+--color: 157, 89%, 44%
+Meketing and Communication
+
+--color: 52, 98%, 50%
+Business Development
+
+--color: 203, 97%, 75%
+04 More Service
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FEATURE ----------#
+
+alt = feature banner
+
+Why Choose us
+
+Specialist in aviding clients of financial challenges
+
+--color: 174, 77%, 50%
+<ion-icon name="rocket-sharp" aria-hidden="true"></ion-icon>
+
+Fast working process
+
+At Pixology we specialize in designing, building, shipping and scaling beautifu.
+
+--color: 241, 77%, 63%;
+<ion-icon name="people-sharp" aria-hidden="true"></ion-icon>
+
+Didicated team
+
+--color: 343, 98%, 60%;
+<ion-icon name="headset-sharp" aria-hidden="true"></ion-icon>
+
+24/7 hours support
+
+
+
+#---------- PROJECT ----------#
+
+Projects
+
+Pixology complete project
+
+Website
+Landing Page
+iOS App
+Landing Page
+Branding Design
+
+alt = Book art design
+
+Book art design
+Branding
+
+alt = Graphic Design
+
+Graphic Design
+Design
+
+alt = 3d Digital Art
+
+3d Digital Art
+
+alt = Web Design
+
+Web Design
+
+alt = Mobile App Design
+
+Mobile App Design
+
+
+
+#---------- NEWSLETTER ----------#
+
+alt = newsletter banner
+
+Get every update
+
+Subscribe newslater get latest updates and deals
+
+placeholder = Enter your mail
 
 Subscribe
-<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
 
-alt = WebSimpL
-
-alt = shape
-
-
-
-#---------- TOPICS ----------#
-
-Hot topics
-
-Don't miss out on the latest news about Travel tips, Hotels review, Food guide...
-
-aria-label = previous
-<ion-icon name="arrow-back" aria-hidden="true"></ion-icon>
-
-aria-label = next
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
-Sport
-38 Articles
-
-Travel
-63 Articles
-
-Design
-78 Articles
-
-Movie
-125 Articles
-
-Lifestyle
-78 Articles
 
 
+#---------- BLOG ----------#
 
-#---------- FEATURED POST ----------#
+Blog Post
 
-Editor's picked
-Featured and highly rated articles
+Popular blog post
 
-alt = Self-observation is the first step of inner unfolding
+alt = Godaddy user flow solution...
 
-#Travel #Lifestyle
+Development
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-3 mins read
+July 22, 2022
 
-Self-observation is the first step of inner unfolding
+Godaddy user flow solution...
 
-alt = Joseph
-Joseph
-25 Nov 2022
+At Pixology we specialize in designing, building, shipping and scaling beautifu. At Pixology we specialize in designing, building, shipping and scaling beautiful.
 
-Read more
+alt = Godaddy user flow solution for every individual
 
-#Design #Movie
-6 mins read
+July 21, 2020
 
-Show More Posts
+Godaddy user flow solution for every individual
 
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+Business solution for every individual
 
-
-
-#---------- POPULAR TAGS ----------#
-
-Popular Tags
-
-Most searched keywords
-
-Travel
-
-Culture
-
-Lifestyle
-
-Fashion
-
-Food
-
-Space
-
-Animal
-
-Minimal
-
-Interior
-
-Plant
-
-Nature
-
-Business
-
-
-
-#---------- RECENT POST ----------#
-
-Recent posts
-
-Don't miss the latest trends
-
-alt = Helpful Tips for Working from Home as a Freelancer
-
-Working Tips
-
-Helpful Tips for Working from Home as a Freelancer
-
-Gosh jaguar ostrich quail one excited dear hello and bound and the and bland moral misheard roadrunner flapped lynx far that and jeepers giggled far and far
-
-# Travel
-# Lifestyle
-
-<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-3 mins read
-
-aria-label = previous page
-<ion-icon name="arrow-back" aria-hidden="true"></ion-icon>
-
-1
-2
-3
-
-aria-label = more page
-...
-
-aria-label = next page
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
- 
-Popular Posts
-
-Creating is a privilege but it’s also a gift
-
-15 mins read
-
-15 April 2022
-
-Being unique is better than being perfect
-
-Every day, in every city and town across the country
-
-Your voice, your mind, your story, your vision
-
-Last Comment
-
-“ Gosh jaguar ostrich quail one excited dear hello and bound and the and bland moral misheard roadrunner “
-
-Jane Cooper
-15 April 2022
-
-Katen Doe
-
-Barbara Cartland
-
-Wren logo
-
-Follow us on instagram
-
-alt = insta post
+How to gain pro experience ar figma update version
 
 
 
 #---------- FOOTER ----------#
 
-Wren logo
+About Pixology
 
-When an unknown prnoto sans took a galley and scrambled it to make specimen book not only five When an unknown prnoto sans took a galley and scrambled it to five centurie.
+A new way to make the payments easy, reliable and 100% secure. claritatem itamconse quat. Exerci tationulla
 
-Address
-
-123 Main Street
-New York, NY 10001
-
-Categories
-
-Action
-Business
-Adventure
-Canada
-America
-Curiosity
-Animal
-Dental
-Biology
-Design
-Breakfast
-Dessert
-
-Newsletter
-
-Sign up to be first to receive the latest stories inspiring us, case studies, and industry news.
-
-placeholder = Your name
-<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
-
-placeholder = Emaill address
-<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-
-Subscribe
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-
-&copy; Developed by codewithsadee.
-
+<ion-icon name="logo-youtube"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
-Twitter
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-skype"></ion-icon>
 
-<ion-icon name="logo-linkedin"></ion-icon>
-LinkedIn
+Usefull Links
 
-<ion-icon name="logo-instagram"></ion-icon>
-Instagram
+Contact us
+How it Works
+Create
+Explore
+Terms & Services
+
+Community
+
+Help Center
+Partners
+Suggestions
+Blog
+Newsletters
+
+Instagram post
+
+alt = instagram post
+
+<ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+
+&copy; 2022 Pixology. All Rights Reserved by codewithsadee
+
+Terms and conditions
+Privacy policy
+Login / Signup
 
 
 
 #---------- BACK TO TOP ----------#
 
-aria-label = back to top
+aria-label="back to top"
 
-<ion-icon name="arrow-up-outline" aria-hidden="true"></ion-icon>
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
